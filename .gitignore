@@ -1,5 +1,8 @@
 .vscode
+.env
 venv
 *sqlite3
 __pycache__
 media
+*.crt
+*.key
